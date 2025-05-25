@@ -1,0 +1,7 @@
+git init
+git status 
+git log --oneline
+git clone<url>
+git log -p
+git log -2
+git reset --soft
